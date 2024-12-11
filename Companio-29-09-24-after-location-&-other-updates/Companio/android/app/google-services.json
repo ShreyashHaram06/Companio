@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856574706834",
+    "project_id": "demofire-24-03-2024",
+    "storage_bucket": "demofire-24-03-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856574706834:android:cc8df7e6156781e247524b",
+        "android_client_info": {
+          "package_name": "com.example.demofire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUPx3yEagRSQfM8p_fdaqwxkaUNl-YEI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
